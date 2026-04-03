@@ -5,7 +5,14 @@
     {
       "src": "Build/icon0.png",
       "type": "image/png",
-      "sizes": "324x324"
+      "sizes": "324x324",
+      "purpose": "any"
+    },
+    {
+      "src": "Build/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "maskable"
     }
   ],
   "start_url": "./index.html",
